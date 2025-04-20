@@ -1,5 +1,7 @@
 # DCF_VALUATION_TOOL
 A Python tool for projecting FCFE and calculating intrinsic share value using DCF, based on Excel financials and customizable assumptions.
+
+Requirements: Make sure you have pandas and numpy installed. You’ll also need openpyxl for reading .xlsx Excel files
 ### Features:
 - Automatically extracts financials from income and cash flow statement sheets
 - Projects revenue, net income, and FCFE over 5 years
